@@ -31,6 +31,11 @@ function groupStageSliders () {
 			var show = dia + ' de Julho';
 		}
 		output.innerHTML = show;
+		// Modificando tabela Next Match
+		var next_matches = document.getElementsByClassName("next_matches");
+		var f = "<iframe width='300' height='150' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Next_matches/?file_path=data/" + data + ".json' align='middle'></iframe>";
+		next_matches[0].innerHTML = f;
+		
 		// Modificando tabela de grupos
 		var tables = document.getElementsByClassName("tables");
 		var i;
@@ -42,6 +47,11 @@ function groupStageSliders () {
 		    tables[i].innerHTML = frame;
 		}
 	}
+	// Modificando tabela Next Match
+	var next_matches = document.getElementsByClassName("next_matches");
+	var f = "<iframe width='300' height='150' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Next_matches/?file_path=data/" + data + ".json' align='middle'></iframe>";
+	next_matches[0].innerHTML = f;
+
 	// Modificando tabela de grupos
 	var tables = document.getElementsByClassName("tables");
 	var i;
