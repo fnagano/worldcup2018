@@ -173,7 +173,7 @@ d3.json(file_path, function(error, graph) {
 // add image
   node.append("image")
     .filter(function(d) { return d.x < width / 2; })
-      .attr("xlink:href", function(d) { return 'https://raw.githubusercontent.com/lucasnoveline/worldcup2018/master/flags32/' + d.flag + '.png'; })
+      .attr("xlink:href", function(d) { return 'https://raw.githubusercontent.com/fnagano/worldcup2018/master/flags32/' + d.flag + '.png'; })
       .attr("x", -36)
       .attr("text-anchor", "end")
       .attr("y", function(d) { return d.dy / 2; });
