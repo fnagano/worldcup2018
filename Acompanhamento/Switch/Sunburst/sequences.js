@@ -75,10 +75,6 @@ d3.text(file_path, function(text) {
   // Total size of all segments; we set this later, after loading the data.
   var totalSize = 0; 
 
-  // Carregando nome do arquivo atraves do iframe
-
-  console.log(order_vector);
-
   var vis = d3.select("#chart").append("svg:svg")
       .attr("preserveAspectRatio", "xMidYMid")
       .attr("viewBox", "0 0 " + width + " " + height)
