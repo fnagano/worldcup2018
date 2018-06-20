@@ -34,13 +34,13 @@ function switchSlider () {
 		
 		// Modificando tabela de grupos
 		var swt = document.getElementsByClassName("switch");
-		var frame = "<iframe width='600' height='1200' frameborder='0' scrolling='yes' src='https://lucasnoveline.github.io/worldcup2018_posts/Acompanhamento/Switch/?data=" + data + "' align='middle'></iframe>";
+		var frame = "<iframe width='600' height='1200' frameborder='0' scrolling='yes' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Switch/?data=" + data + "' align='middle'></iframe>";
 
 		swt[0].innerHTML = frame;
 	}
 	// Modificando tabela de grupos
 	var swt = document.getElementsByClassName("switch");
-	var frame = "<iframe width='600' height='1200' frameborder='0' scrolling='yes' src='https://lucasnoveline.github.io/worldcup2018_posts/Acompanhamento/Switch/?data=" + data + "' align='middle'></iframe>";
+	var frame = "<iframe width='600' height='1200' frameborder='0' scrolling='yes' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Switch/?data=" + data + "' align='middle'></iframe>";
 
 	swt[0].innerHTML = frame;
 }
