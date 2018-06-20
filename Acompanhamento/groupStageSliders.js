@@ -38,7 +38,7 @@ function groupStageSliders () {
 		// Para cada tabela de grupos
 		for (i = 0; i < tables.length; i++) { 
 		    var group = tables[i].id;
-		    var frame = "<iframe width='300' height='200' frameborder='0' scrolling='no' src='https://lucasnoveline.github.io/worldcup2018_posts/Acompanhamento/Tabelas_grupos/?file_path=" + group + "/" + data + ".json' align='middle'></iframe>";
+		    var frame = "<iframe width='300' height='200' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Tabelas_grupos/?file_path=" + group + "/" + data + ".json' align='middle'></iframe>";
 		    tables[i].innerHTML = frame;
 		}
 	}
@@ -49,7 +49,7 @@ function groupStageSliders () {
 	// Para cada tabela de grupos
 	for (i = 0; i < tables.length; i++) { 
 	    var group = tables[i].id;
-	    var frame = "<iframe width='300' height='200' frameborder='0' scrolling='no' src='https://lucasnoveline.github.io/worldcup2018_posts/Acompanhamento/Tabelas_grupos/?file_path=" + group + "/" + data + ".json' align='middle'></iframe>";
+	    var frame = "<iframe width='300' height='200' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Tabelas_grupos/?file_path=" + group + "/" + data + ".json' align='middle'></iframe>";
 	    tables[i].innerHTML = frame;
 	}
 }
