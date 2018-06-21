@@ -4,24 +4,6 @@ function groupStageSliders () {
 	var output = document.getElementById("data-grupos");
 	var val = slider.value;
 	
-	// When the user scrolls the page, execute myFunction 
-	window.onscroll = function() {myFunction()};
-
-	// Get the header
-	//var header = document.getElementById("myHeader");
-
-	// Get the offset position of the navbar
-	var sticky = .slidecontainer.offsetTop;
-
-	// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-	function myFunction() {
-  		if (window.pageYOffset >= sticky) {
-    		.slidecontainer.classList.add("sticky");
-  		} else {
-    		.slidecontainer.classList.remove("sticky");
-  		}
-	}
-	
 	
 
 	// Convertendo em data
@@ -83,3 +65,22 @@ function groupStageSliders () {
 	    tables[i].innerHTML = frame;
 	}
 }
+
+	// When the user scrolls the page, execute myFunction 
+	window.onscroll = function() {myFunction()};
+
+	// Get the header
+	var slidecontainer = document.getElementById("data-grupos");
+
+	// Get the offset position of the navbar
+	var sticky = .slidecontainer.offsetTop;
+
+	// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+	function myFunction() {
+  		if (window.pageYOffset >= sticky) {
+    		.slidecontainer.classList.add("sticky");
+  		} else {
+    		.slidecontainer.classList.remove("sticky");
+  		}
+	}
+	
