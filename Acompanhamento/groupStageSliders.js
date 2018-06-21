@@ -66,21 +66,5 @@ function groupStageSliders () {
 	}
 }
 
-	// When the user scrolls the page, execute myFunction 
-	window.onscroll = function() {myFunction()};
 
-	// Get the header
-	var slidecontainer = document.getElementById("teste");
-
-	// Get the offset position of the navbar
-	var sticky = .slidecontainer.offsetTop;
-
-	// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-	function myFunction() {
-  		if (window.pageYOffset >= sticky) {
-    		.slidecontainer.classList.add("sticky");
-  		} else {
-    		.slidecontainer.classList.remove("sticky");
-  		}
-	}
 	
