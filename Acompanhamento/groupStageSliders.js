@@ -70,7 +70,7 @@ function groupStageSliders () {
 	window.onscroll = function() {myFunction()};
 
 	// Get the header
-	var slidecontainer = document.getElementById("data-grupos");
+	var slidecontainer = document.getElementById("teste");
 
 	// Get the offset position of the navbar
 	var sticky = .slidecontainer.offsetTop;
