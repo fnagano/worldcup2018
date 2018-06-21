@@ -1,5 +1,5 @@
 [
-{"flagA": "brazil", "teamA": "Brasil", "Awins": 0,8324, "draw": 0,1173, "Bwins": 0,0503, "teamB": "Costa Rica", "flagB": "costa-rica"},
-{"flagA": "nigeria", "teamA": "Nigéria", "Awins": 0,163, "draw": 0,2602, "Bwins": 0,5768, "teamB": "Islândia", "flagB": "iceland"},
-{"flagA": "serbia", "teamA": "Sérvia", "Awins": 0,2313, "draw": 0,2798, "Bwins": 0,4889, "teamB": "Suíça", "flagB": "switzerland"}
+{"flagA": "brazil", "teamA": "Brasil", "Awins": 0.8324, "draw": 0.1173, "Bwins": 0.0503, "teamB": "Costa Rica", "flagB": "costa-rica"},
+{"flagA": "nigeria", "teamA": "Nigéria", "Awins": 0.163, "draw": 0.2602, "Bwins": 0.5768, "teamB": "Islândia", "flagB": "iceland"},
+{"flagA": "serbia", "teamA": "Sérvia", "Awins": 0.2313, "draw": 0.2798, "Bwins": 0.4889, "teamB": "Suíça", "flagB": "switzerland"}
 ]
