@@ -3,7 +3,7 @@ function stick()
   window.onscroll = function() {myFunction()};
 
   var header = document.getElementById("teste");
-  var sticky = header.offsetTop;
+  var sticky = header.offsetTop + 100;
 
   function myFunction() {
     console.log(sticky);
