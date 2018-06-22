@@ -4,7 +4,7 @@
 
 .sticky {
   position: fixed;
-  top: 5;
+  top: 5px;
   width: 50%;
 }
 
