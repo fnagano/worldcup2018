@@ -6,7 +6,9 @@ function stick()
   var sticky = header.offsetTop;
 
   function myFunction() {
-    if (window.pageYOffset >= sticky + 30) {
+    console.log(sticky);
+    console.log(window.pageYOffset);
+    if (window.pageYOffset >= sticky + 100) {
       header.classList.add("sticky");
     } else {
       header.classList.remove("sticky");
