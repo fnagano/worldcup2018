@@ -2,8 +2,8 @@ function stick()
 {
   window.onscroll = function() {myFunction()};
 
-  var header = document.getElementById("teste");
-  var sticky = header.offsetTop + 100;
+  var header = document.getElementByClassName("next_matches");
+  var sticky = header.offsetTop;
 
   function myFunction() {
     console.log(sticky);
