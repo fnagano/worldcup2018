@@ -8,7 +8,7 @@ function stick()
   function myFunction() {
     console.log(sticky);
     console.log(window.pageYOffset);
-    if (window.pageYOffset >= sticky + 100) {
+    if (window.pageYOffset >= sticky) {
       header.classList.add("sticky");
     } else {
       header.classList.remove("sticky");
