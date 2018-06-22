@@ -171,10 +171,11 @@
                 }
             })
             .attr('class', ƒ('class'));
-			// Funcoes de processamento dos dados
-			// Retorna numero em porcentagem sem casas decimais
-			function percent() {
-            	return function(f) { return Math.round(100 * f) + '%'; };
+		// Funcoes de processamento dos dados
+		// Retorna numero em porcentagem sem casas decimais
+		function percent() { return function(f) { 
+                    var i = Math.round(100 * f);
+                    return i > 0? i + '%': f > 0? '<1%' : '--'; };
         	};
         	// A partir do nome do pais, retorna a bandeira
         	function input_img() {
