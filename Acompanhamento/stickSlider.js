@@ -4,6 +4,7 @@ function stick()
 
   var header = document.getElementById("teste");
   var text_init = document.getElementById("texto_inicial");
+  var limit = document.getElementById("limit").offsetTop + 100;
   var only_text = text_init.innerHTML;
   var bar = only_text + header.innerHTML;
   var sticky = header.offsetTop + 200;
@@ -17,6 +18,9 @@ function stick()
     } else {
       header.classList.remove("sticky");
       text_init.innerHTML = only_text;
+    }
+    if (window.pageYOffset >= limit) {
+      header.classList.remove("sticky");
     }
   }
 }
