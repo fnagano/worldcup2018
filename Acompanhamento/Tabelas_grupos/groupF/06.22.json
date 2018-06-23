@@ -1,6 +1,6 @@
 [
-{"flag": "mexico", "team": "México", "group": "F", "eight": 0.9096, "quarter": 0.3594, "semi": 0.1796, "final": 0.0559, "winner": 0.0154},
-{"flag": "sweden", "team": "Suécia", "group": "F", "eight": 0.3382, "quarter": 0.0652, "semi": 0.0196, "final": 0.0046, "winner": 0.0007},
-{"flag": "germany", "team": "Alemanha", "group": "F", "eight": 0.715, "quarter": 0.3265, "semi": 0.2252, "final": 0.1242, "winner": 0.0586},
-{"flag": "south-korea", "team": "Coreia do Sul", "group": "F", "eight": 0.0372, "quarter": 0.0035, "semi": 0.0006, "final": 0.0001, "winner": 0}
-]
+{"Flag": "mexico", "Team": "México", "Points": 3, "First": 0.7185, "Second": 0.1911, "Third": 0.0732, "Fourth": 0.0172},
+{"Flag": "sweden", "Team": "Suécia", "Points": 3, "First": 0.1158, "Second": 0.2224, "Third": 0.6034, "Fourth": 0.0584},
+{"Flag": "germany", "Team": "Alemanha", "Points": 0, "First": 0.1586, "Second": 0.5564, "Third": 0.2298, "Fourth": 0.0552},
+{"Flag": "south-korea", "Team": "Coreia do Sul", "Points": 0, "First": 0.0071, "Second": 0.0301, "Third": 0.0936, "Fourth": 0.8692}
+  ]
