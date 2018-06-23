@@ -24,7 +24,7 @@ Portugal-Oitavas-Eliminado,0.2741
 Portugal-Eliminado,0.1129
 Alemanha-Oitavas-Quartas-Semi-Final-Campeão,0.0586
 Alemanha-Oitavas-Quartas-Semi-Final-Eliminado,0.0656
-Alemanha-Oitavas-Quartas-Semi-Eliminado,0.1274
+Alemanha-Oitavas-Quartas-Semi-Eliminado,0.101
 Alemanha-Oitavas-Quartas-Eliminado,0.1013
 Alemanha-Oitavas-Eliminado,0.3885
 Alemanha-Eliminado,0.285
@@ -46,12 +46,6 @@ Bélgica-Oitavas-Quartas-Semi-Eliminado,0.1647
 Bélgica-Oitavas-Quartas-Eliminado,0.4685
 Bélgica-Oitavas-Eliminado,0.2211
 Bélgica-Eliminado,0.0368000000000001
-Suíça-Oitavas-Quartas-Semi-Final-Campeão,0.0206
-Suíça-Oitavas-Quartas-Semi-Final-Eliminado,0.0602
-Suíça-Oitavas-Quartas-Semi-Eliminado,0.1633
-Suíça-Oitavas-Quartas-Eliminado,0.2359
-Suíça-Oitavas-Eliminado,0.5041
-Suíça-Eliminado,0.0159
 Uruguai-Oitavas-Quartas-Semi-Final-Campeão,0.0194
 Uruguai-Oitavas-Quartas-Semi-Final-Eliminado,0.0423
 Uruguai-Oitavas-Quartas-Semi-Eliminado,0.0969
@@ -64,6 +58,18 @@ México-Oitavas-Quartas-Semi-Eliminado,0.1237
 México-Oitavas-Quartas-Eliminado,0.1798
 México-Oitavas-Eliminado,0.5502
 México-Eliminado,0.0904
+Suíça-Oitavas-Quartas-Semi-Final-Campeão,0.0206
+Suíça-Oitavas-Quartas-Semi-Final-Eliminado,0.0602
+Suíça-Oitavas-Quartas-Semi-Eliminado,0.1633
+Suíça-Oitavas-Quartas-Eliminado,0.2359
+Suíça-Oitavas-Eliminado,0.5041
+Suíça-Eliminado,0.0159
+Dinamarca-Oitavas-Quartas-Semi-Final-Campeão,0.0039
+Dinamarca-Oitavas-Quartas-Semi-Final-Eliminado,0.0186
+Dinamarca-Oitavas-Quartas-Semi-Eliminado,0.0589
+Dinamarca-Oitavas-Quartas-Eliminado,0.224
+Dinamarca-Oitavas-Eliminado,0.5593
+Dinamarca-Eliminado,0.1353
 Argentina-Oitavas-Quartas-Semi-Final-Campeão,0.0059
 Argentina-Oitavas-Quartas-Semi-Final-Eliminado,0.015
 Argentina-Oitavas-Quartas-Semi-Eliminado,0.0494
@@ -76,24 +82,18 @@ Colômbia-Oitavas-Quartas-Semi-Eliminado,0.0425
 Colômbia-Oitavas-Quartas-Eliminado,0.1438
 Colômbia-Oitavas-Eliminado,0.3468
 Colômbia-Eliminado,0.4493
-Dinamarca-Oitavas-Quartas-Semi-Final-Campeão,0.0039
-Dinamarca-Oitavas-Quartas-Semi-Final-Eliminado,0.0186
-Dinamarca-Oitavas-Quartas-Semi-Eliminado,0.0589
-Dinamarca-Oitavas-Quartas-Eliminado,0.224
-Dinamarca-Oitavas-Eliminado,0.5593
-Dinamarca-Eliminado,0.1353
 Rússia-Oitavas-Quartas-Semi-Final-Campeão,0.0024
 Rússia-Oitavas-Quartas-Semi-Final-Eliminado,0.0063
 Rússia-Oitavas-Quartas-Semi-Eliminado,0.0414
 Rússia-Oitavas-Quartas-Eliminado,0.1549
 Rússia-Oitavas-Eliminado,0.795
 Rússia-Eliminado,0
-Suécia-Oitavas-Quartas-Semi-Final-Campeão,0.0007
-Suécia-Oitavas-Quartas-Semi-Final-Eliminado,0.0039
-Suécia-Oitavas-Quartas-Semi-Eliminado,0.015
-Suécia-Oitavas-Quartas-Eliminado,0.0456
-Suécia-Oitavas-Eliminado,0.273
-Suécia-Eliminado,0.6618
+Sérvia-Oitavas-Quartas-Semi-Final-Campeão,0.0001
+Sérvia-Oitavas-Quartas-Semi-Final-Eliminado,0.0003
+Sérvia-Oitavas-Quartas-Semi-Eliminado,0.0035
+Sérvia-Oitavas-Quartas-Eliminado,0.0156
+Sérvia-Oitavas-Eliminado,0.0693
+Sérvia-Eliminado,0.9112
 Senegal-Oitavas-Quartas-Semi-Final-Campeão,0.0006
 Senegal-Oitavas-Quartas-Semi-Final-Eliminado,0.0028
 Senegal-Oitavas-Quartas-Semi-Eliminado,0.0171
@@ -106,60 +106,60 @@ Japão-Oitavas-Quartas-Semi-Eliminado,0.0165
 Japão-Oitavas-Quartas-Eliminado,0.1267
 Japão-Oitavas-Eliminado,0.5609
 Japão-Eliminado,0.2913
-Irã-Oitavas-Quartas-Semi-Final-Campeão,0.0003
-Irã-Oitavas-Quartas-Semi-Final-Eliminado,0.0015
-Irã-Oitavas-Quartas-Semi-Eliminado,0.0067
-Irã-Oitavas-Quartas-Eliminado,0.0347
-Irã-Oitavas-Eliminado,0.0868
-Irã-Eliminado,0.87
-Polônia-Oitavas-Quartas-Semi-Final-Campeão,0.0002
-Polônia-Oitavas-Quartas-Semi-Final-Eliminado,0.0012
-Polônia-Oitavas-Quartas-Semi-Eliminado,0.0038
-Polônia-Oitavas-Quartas-Eliminado,0.0297
-Polônia-Oitavas-Eliminado,0.1369
-Polônia-Eliminado,0.8282
-Nigéria-Oitavas-Quartas-Semi-Final-Campeão,0.0001
-Nigéria-Oitavas-Quartas-Semi-Final-Eliminado,0.0004
-Nigéria-Oitavas-Quartas-Semi-Eliminado,0.0066
-Nigéria-Oitavas-Quartas-Eliminado,0.0385
-Nigéria-Oitavas-Eliminado,0.3047
-Nigéria-Eliminado,0.6497
-Sérvia-Oitavas-Quartas-Semi-Final-Campeão,0.0001
-Sérvia-Oitavas-Quartas-Semi-Final-Eliminado,0.0003
-Sérvia-Oitavas-Quartas-Semi-Eliminado,0.0035
-Sérvia-Oitavas-Quartas-Eliminado,0.0156
-Sérvia-Oitavas-Eliminado,0.0693
-Sérvia-Eliminado,0.9112
-Austrália-Oitavas-Quartas-Semi-Final-Campeão,0
-Austrália-Oitavas-Quartas-Semi-Final-Eliminado,0.0011
-Austrália-Oitavas-Quartas-Semi-Eliminado,0.0034
-Austrália-Oitavas-Quartas-Eliminado,0.0187
-Austrália-Oitavas-Eliminado,0.1121
-Austrália-Eliminado,0.8647
 Islândia-Oitavas-Quartas-Semi-Final-Campeão,0
 Islândia-Oitavas-Quartas-Semi-Final-Eliminado,0.0002
 Islândia-Oitavas-Quartas-Semi-Eliminado,0.0009
 Islândia-Oitavas-Quartas-Eliminado,0.0068
 Islândia-Oitavas-Eliminado,0.0485
 Islândia-Eliminado,0.9436
+Suécia-Oitavas-Quartas-Semi-Final-Campeão,0.0007
+Suécia-Oitavas-Quartas-Semi-Final-Eliminado,0.0039
+Suécia-Oitavas-Quartas-Semi-Eliminado,0.015
+Suécia-Oitavas-Quartas-Eliminado,0.0456
+Suécia-Oitavas-Eliminado,0.273
+Suécia-Eliminado,0.6618
+Irã-Oitavas-Quartas-Semi-Final-Campeão,0.0003
+Irã-Oitavas-Quartas-Semi-Final-Eliminado,0.0015
+Irã-Oitavas-Quartas-Semi-Eliminado,0.0067
+Irã-Oitavas-Quartas-Eliminado,0.0347
+Irã-Oitavas-Eliminado,0.0868
+Irã-Eliminado,0.87
+Austrália-Oitavas-Quartas-Semi-Final-Campeão,0
+Austrália-Oitavas-Quartas-Semi-Final-Eliminado,0.0011
+Austrália-Oitavas-Quartas-Semi-Eliminado,0.0034
+Austrália-Oitavas-Quartas-Eliminado,0.0187
+Austrália-Oitavas-Eliminado,0.1121
+Austrália-Eliminado,0.8647
+Polônia-Oitavas-Quartas-Semi-Final-Campeão,0.0002
+Polônia-Oitavas-Quartas-Semi-Final-Eliminado,0.0012
+Polônia-Oitavas-Quartas-Semi-Eliminado,0.0038
+Polônia-Oitavas-Quartas-Eliminado,0.0297
+Polônia-Oitavas-Eliminado,0.1369
+Polônia-Eliminado,0.8282
 Panamá-Oitavas-Quartas-Semi-Final-Campeão,0
 Panamá-Oitavas-Quartas-Semi-Final-Eliminado,0.0001
 Panamá-Oitavas-Quartas-Semi-Eliminado,0.0007
 Panamá-Oitavas-Quartas-Eliminado,0.0082
 Panamá-Oitavas-Eliminado,0.039
 Panamá-Eliminado,0.952
-Coreia do Sul-Oitavas-Quartas-Semi-Final-Campeão,0
-Coreia do Sul-Oitavas-Quartas-Semi-Final-Eliminado,0.0001
-Coreia do Sul-Oitavas-Quartas-Semi-Eliminado,0.0005
-Coreia do Sul-Oitavas-Quartas-Eliminado,0.0029
-Coreia do Sul-Oitavas-Eliminado,0.0337
-Coreia do Sul-Eliminado,0.9628
+Nigéria-Oitavas-Quartas-Semi-Final-Campeão,0.0001
+Nigéria-Oitavas-Quartas-Semi-Final-Eliminado,0.0004
+Nigéria-Oitavas-Quartas-Semi-Eliminado,0.0066
+Nigéria-Oitavas-Quartas-Eliminado,0.0385
+Nigéria-Oitavas-Eliminado,0.3047
+Nigéria-Eliminado,0.6497
 Tunísia-Oitavas-Quartas-Semi-Final-Campeão,0
 Tunísia-Oitavas-Quartas-Semi-Final-Eliminado,0
 Tunísia-Oitavas-Quartas-Semi-Eliminado,0.0011
 Tunísia-Oitavas-Quartas-Eliminado,0.0077
 Tunísia-Oitavas-Eliminado,0.036
 Tunísia-Eliminado,0.9552
+Coreia do Sul-Oitavas-Quartas-Semi-Final-Campeão,0
+Coreia do Sul-Oitavas-Quartas-Semi-Final-Eliminado,0.0001
+Coreia do Sul-Oitavas-Quartas-Semi-Eliminado,0.0005
+Coreia do Sul-Oitavas-Quartas-Eliminado,0.0029
+Coreia do Sul-Oitavas-Eliminado,0.0337
+Coreia do Sul-Eliminado,0.9628
 Costa Rica-Oitavas-Quartas-Semi-Final-Campeão,0
 Costa Rica-Oitavas-Quartas-Semi-Final-Eliminado,0
 Costa Rica-Oitavas-Quartas-Semi-Eliminado,0
