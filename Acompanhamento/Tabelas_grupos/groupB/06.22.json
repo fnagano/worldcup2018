@@ -1,0 +1,6 @@
+[
+{"flag": "uruguay", "team": "Uruguai", "group": "A", "eight": 1, "quarter": 0.3544, "semi": 0.1586, "final": 0.0617, "winner": 0.0194},
+{"flag": "russia", "team": "Rússia", "group": "A", "eight": 1, "quarter": 0.205, "semi": 0.0501, "final": 0.0087, "winner": 0.0024},
+{"flag": "egypt", "team": "Egito", "group": "A", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0},
+{"flag": "saudi-arabia", "team": "Arábia Saudita", "group": "A", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0}
+]
