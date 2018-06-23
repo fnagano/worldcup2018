@@ -21,6 +21,7 @@ function stick()
     }
     if (window.pageYOffset >= limit) {
       header.classList.remove("sticky");
+      text_init.innerHTML = only_text;
     }
   }
 }
