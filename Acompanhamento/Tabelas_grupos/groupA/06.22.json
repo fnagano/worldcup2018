@@ -1,6 +1,6 @@
 [
-{"flag": "uruguay", "team": "Uruguai", "group": "A", "eight": 1, "quarter": 0.3544, "semi": 0.1586, "final": 0.0617, "winner": 0.0194},
-{"flag": "russia", "team": "Rússia", "group": "A", "eight": 1, "quarter": 0.205, "semi": 0.0501, "final": 0.0087, "winner": 0.0024},
-{"flag": "egypt", "team": "Egito", "group": "A", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0},
-{"flag": "saudi-arabia", "team": "Arábia Saudita", "group": "A", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0}
+{"Flag": "uruguay", "Team": "Uruguai", "Points": 6, "First": 0.5835, "Second": 0.4165, "Third": 0, "Fourth": 0},
+{"Flag": "russia", "Team": "Rússia", "Points": 6, "First": 0.4165, "Second": 0.5835, "Third": 0, "Fourth": 0},
+{"Flag": "egypt", "Team": "Egito", "Points": 0, "First": 0, "Second": 0, "Third": 0.6914, "Fourth": 0.3086},
+{"Flag": "saudi-arabia", "Team": "Arábia Saudita", "Points": 0, "First": 0, "Second": 0, "Third": 0.3086, "Fourth": 0.6914}
 ]
