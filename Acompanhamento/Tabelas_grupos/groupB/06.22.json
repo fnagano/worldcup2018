@@ -1,6 +1,6 @@
 [
-{"flag": "spain", "team": "Espanha", "group": "B", "eight": 0.9829, "quarter": 0.7844, "semi": 0.5612, "final": 0.363, "winner": 0.209},
-{"flag": "portugal", "team": "Portugal", "group": "B", "eight": 0.8871, "quarter": 0.613, "semi": 0.3501, "final": 0.1762, "winner": 0.071},
-{"flag": "iran", "team": "Irã", "group": "B", "eight": 0.13, "quarter": 0.0432, "semi": 0.0085, "final": 0.0018, "winner": 0.0003},
-{"flag": "morocco", "team": "Marrocos", "group": "B", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0}
+{"Flag": "spain", "Team": "Espanha", "Points": 4, "First": 0.5647, "Second": 0.4182, "Third": 0.0171, "Fourth": 0},
+{"Flag": "portugal", "Team": "Portugal", "Points": 4, "First": 0.4172, "Second": 0.4699, "Third": 0.1129, "Fourth": 0},
+{"Flag": "iran", "Team": "Irã", "Points": 3, "First": 0.0181, "Second": 0.1119, "Third": 0.8459, "Fourth": 0.0241},
+{"Flag": "morocco", "Team": "Marrocos", "Points": 0, "First": 0, "Second": 0, "Third": 0.0241, "Fourth": 0.9759}
 ]
