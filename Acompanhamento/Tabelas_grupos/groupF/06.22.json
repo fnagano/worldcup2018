@@ -1,0 +1,6 @@
+[
+{"flag": "mexico", "team": "México", "group": "F", "eight": 0.9096, "quarter": 0.3594, "semi": 0.1796, "final": 0.0559, "winner": 0.0154},
+{"flag": "sweden", "team": "Suécia", "group": "F", "eight": 0.3382, "quarter": 0.0652, "semi": 0.0196, "final": 0.0046, "winner": 0.0007},
+{"flag": "germany", "team": "Alemanha", "group": "F", "eight": 0.715, "quarter": 0.3265, "semi": 0.2252, "final": 0.1242, "winner": 0.0586},
+{"flag": "south-korea", "team": "Coreia do Sul", "group": "F", "eight": 0.0372, "quarter": 0.0035, "semi": 0.0006, "final": 0.0001, "winner": 0}
+]
