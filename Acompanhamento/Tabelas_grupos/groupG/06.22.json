@@ -1,6 +1,6 @@
 [
-{"flag": "belgium", "team": "Bélgica", "group": "G", "eight": 0.9632, "quarter": 0.7421, "semi": 0.2736, "final": 0.1089, "winner": 0.036},
-{"flag": "england", "team": "Inglaterra", "group": "G", "eight": 0.944, "quarter": 0.7358, "semi": 0.3158, "final": 0.1239, "winner": 0.044},
-{"flag": "tunisia", "team": "Tunísia", "group": "G", "eight": 0.0448, "quarter": 0.0088, "semi": 0.0011, "final": 0, "winner": 0},
-{"flag": "panama", "team": "Panamá", "group": "G", "eight": 0.048, "quarter": 0.009, "semi": 0.0008, "final": 0.0001, "winner": 0}
-]
+{"Flag": "belgium", "Team": "Bélgica", "Points": 3, "First": 0.5795, "Second": 0.3837, "Third": 0.0336, "Fourth": 0.0032},
+{"Flag": "england", "Team": "Inglaterra", "Points": 3, "First": 0.4117, "Second": 0.5323, "Third": 0.0525, "Fourth": 0.0035},
+{"Flag": "tunisia", "Team": "Tunísia", "Points": 0, "First": 0.0048, "Second": 0.04, "Third": 0.4477, "Fourth": 0.5075},
+{"Flag": "panama", "Team": "Panamá", "Points": 0, "First": 0.004, "Second": 0.044, "Third": 0.4662, "Fourth": 0.4858}
+  ]
