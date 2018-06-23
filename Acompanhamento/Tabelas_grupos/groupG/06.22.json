@@ -1,0 +1,6 @@
+[
+{"flag": "belgium", "team": "Bélgica", "group": "G", "eight": 0.9632, "quarter": 0.7421, "semi": 0.2736, "final": 0.1089, "winner": 0.036},
+{"flag": "england", "team": "Inglaterra", "group": "G", "eight": 0.944, "quarter": 0.7358, "semi": 0.3158, "final": 0.1239, "winner": 0.044},
+{"flag": "tunisia", "team": "Tunísia", "group": "G", "eight": 0.0448, "quarter": 0.0088, "semi": 0.0011, "final": 0, "winner": 0},
+{"flag": "panama", "team": "Panamá", "group": "G", "eight": 0.048, "quarter": 0.009, "semi": 0.0008, "final": 0.0001, "winner": 0}
+]
