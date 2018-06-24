@@ -1,0 +1,6 @@
+[
+{"flag": "spain", "team": "Espanha", "group": "B", "eight": 0.9831, "quarter": 0.7941, "semi": 0.5577, "final": 0.346, "winner": 0.2045},
+{"flag": "portugal", "team": "Portugal", "group": "B", "eight": 0.8855, "quarter": 0.6113, "semi": 0.3493, "final": 0.1699, "winner": 0.0723},
+{"flag": "iran", "team": "Irã", "group": "B", "eight": 0.1314, "quarter": 0.0429, "semi": 0.01, "final": 0.002, "winner": 0.0004},
+{"flag": "morocco", "team": "Marrocos", "group": "B", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0}
+]
