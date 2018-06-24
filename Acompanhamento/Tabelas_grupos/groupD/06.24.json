@@ -1,6 +1,6 @@
 [
-{"flag": "croatia", "team": "Croácia", "group": "D", "eight": 1, "quarter": 0.6737, "semi": 0.2959, "final": 0.1594, "winner": 0.0535},
-{"flag": "nigeria", "team": "Nigéria", "group": "D", "eight": 0.3494, "quarter": 0.0418, "semi": 0.0055, "final": 0.0008, "winner": 0},
-{"flag": "argentina", "team": "Argentina", "group": "D", "eight": 0.5953, "quarter": 0.2075, "semi": 0.0727, "final": 0.0224, "winner": 0.0064},
-{"flag": "iceland", "team": "Islândia", "group": "D", "eight": 0.0553, "quarter": 0.0081, "semi": 0.0012, "final": 0.0002, "winner": 0}
+{"Flag": "croatia", "Team": "Croácia", "Points": 6, "First": 0.9984, "Second": 0.0016, "Third": 0, "Fourth": 0},
+{"Flag": "nigeria", "Team": "Nigéria", "Points": 3, "First": 0.0016, "Second": 0.3478, "Third": 0.5726, "Fourth": 0.078},
+{"Flag": "argentina", "Team": "Argentina", "Points": 1, "First": 0, "Second": 0.5953, "Third": 0.2444, "Fourth": 0.1603},
+{"Flag": "iceland", "Team": "Islândia", "Points": 1, "First": 0, "Second": 0.0553, "Third": 0.183, "Fourth": 0.7617}
 ]
