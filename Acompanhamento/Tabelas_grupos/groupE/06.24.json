@@ -1,6 +1,6 @@
 [
-{"flag": "brazil", "team": "Brasil", "group": "E", "eight": 0.9287, "quarter": 0.6936, "semi": 0.5784, "final": 0.4235, "winner": 0.3191},
-{"flag": "switzerland", "team": "Suíça", "group": "E", "eight": 0.9825, "quarter": 0.3876, "semi": 0.1758, "final": 0.058, "winner": 0.0152},
-{"flag": "serbia", "team": "Sérvia", "group": "E", "eight": 0.0888, "quarter": 0.0204, "semi": 0.0054, "final": 0.001, "winner": 0.0001},
-{"flag": "costa-rica", "team": "Costa Rica", "group": "E", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0}
+{"Flag": "brazil", "Team": "Brasil", "Points": 4, "First": 0.7575, "Second": 0.1712, "Third": 0.0713, "Fourth": 0},
+{"Flag": "switzerland", "Team": "Suíça", "Points": 4, "First": 0.2146, "Second": 0.7679, "Third": 0.0175, "Fourth": 0},
+{"Flag": "serbia", "Team": "Sérvia", "Points": 3, "First": 0.0279, "Second": 0.0609, "Third": 0.8368, "Fourth": 0.0744},
+{"Flag": "costa-rica", "Team": "Costa Rica", "Points": 0, "First": 0, "Second": 0, "Third": 0.0744, "Fourth": 0.9256}
 ]
