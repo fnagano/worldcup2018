@@ -1,10 +1,10 @@
 [
-{"flagA": "russia", "teamA": "Rússia", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Arábia Saudita","flagB": "saudi-arabia"},
-{"flagA": "russia", "teamA": "Rússia", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Arábia Saudita","flagB": "saudi-arabia"},
-{"flagA": "russia", "teamA": "Rússia", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Arábia Saudita","flagB": "saudi-arabia"},
-{"flagA": "russia", "teamA": "Rússia", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Arábia Saudita","flagB": "saudi-arabia"},
-{"flagA": "russia", "teamA": "Rússia", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Arábia Saudita","flagB": "saudi-arabia"},
-{"flagA": "russia", "teamA": "Rússia", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Arábia Saudita","flagB": "saudi-arabia"},
-{"flagA": "russia", "teamA": "Rússia", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Arábia Saudita","flagB": "saudi-arabia"},
-{"flagA": "russia", "teamA": "Rússia", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Arábia Saudita","flagB": "saudi-arabia"}
-]
+{"flagA": "uruguay", "teamA": "Uruguai", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Portugal", "flagB": "portugal"},
+{"flagA": "", "teamA": "", "Aposition": "1C", "blank": "vs", "Bposition": "2D", "teamB": "", "flagB": ""},
+{"flagA": "", "teamA": "", "Aposition": "1E", "blank": "vs", "Bposition": "2F", "teamB": "", "flagB": ""},
+{"flagA": "", "teamA": "", "Aposition": "1G", "blank": "vs", "Bposition": "2H", "teamB": "", "flagB": ""},
+{"flagA": "spain", "teamA": "Espanha", "Aposition": "1B", "blank": "vs", "Bposition": "2A", "teamB": "Rússia", "flagB": "russia"},
+{"flagA": "", "teamA": "", "Aposition": "1D", "blank": "vs", "Bposition": "2C", "teamB": "", "flagB": ""},
+{"flagA": "", "teamA": "", "Aposition": "1F", "blank": "vs", "Bposition": "2E", "teamB": "", "flagB": ""},
+{"flagA": "", "teamA": "", "Aposition": "1H", "blank": "vs", "Bposition": "2G", "teamB": "", "flagB": ""}
+  ]
