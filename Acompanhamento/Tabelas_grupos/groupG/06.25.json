@@ -1,0 +1,6 @@
+[
+{"Flag": "belgium", "Team": "Bélgica", "Points": 6, "First": 0.6481, "Second": 0.3519, "Third": 0, "Fourth": 0},
+{"Flag": "england", "Team": "Inglaterra", "Points": 6, "First": 0.3519, "Second": 0.6481, "Third": 0, "Fourth": 0},
+{"Flag": "tunisia", "Team": "Tunísia", "Points": 0, "First": 0, "Second": 0, "Third": 0.5439, "Fourth": 0.4561},
+{"Flag": "panama", "Team": "Panamá", "Points": 0, "First": 0, "Second": 0, "Third": 0.4561, "Fourth": 0.5439}
+]
