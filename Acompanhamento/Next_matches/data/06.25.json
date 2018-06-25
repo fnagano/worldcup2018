@@ -1,0 +1,6 @@
+[
+{"flagA": "australia", "teamA": "Austrália", "Awins": 0.2333, "draw": 0.2816, "Bwins": 0.4851, "teamB": "Peru", "flagB": "peru"},
+{"flagA": "denmark", "teamA": "Dinamarca", "Awins": 0.1482, "draw": 0.2839, "Bwins": 0.5679, "teamB": "França", "flagB": "france"},
+{"flagA": "iceland", "teamA": "Islândia", "Awins": 0.1207, "draw": 0.2029, "Bwins": 0.6764, "teamB": "Croácia", "flagB": "croatia"},
+{"flagA": "nigeria", "teamA": "Nigéria", "Awins": 0.1212, "draw": 0.2346, "Bwins": 0.6442, "teamB": "Argentina", "flagB": "argentina"}
+]
