@@ -34,19 +34,22 @@
         table th:nth-child(3){
         width: 40px;
         }
-        table th:nth-child(4){
-            width: 40px;
+	table th:nth-child(4){
+        width: 20px;
         }
         table th:nth-child(5){
-            width: 80px;
+            width: 40px;
         }
         table th:nth-child(6){
+            width: 80px;
+        }
+        table th:nth-child(7){
             width: 30px;
         }
         table td:nth-child(2){
             text-align: center;
         }
-        table td:nth-child(5){
+        table td:nth-child(6){
             text-align: center;
         }
         th.header { text-align: center; }    
@@ -79,6 +82,7 @@
                 { titulo: '', class: 'header', id: 'flagA', cspan: 1, width: 30 },
                 { titulo: 'Seleção', class: 'header', id: 'teamA', cspan: 1, width: 40 },
                 { titulo: 'Pos', class: 'header', id: 'Aposition', cspan: 1, width: 30 },
+		{ titulo: '', class: 'header', id: 'blank', cspan: 1, width: 20 },
                 { titulo: 'Pos', class: 'header', id: 'Bposition', cspan: 1, width: 30 },
                 { titulo: 'Seleção', class: 'header', id: 'teamB', cspan: 1, width: 40 },
                 { titulo: '', class: 'header', id: 'flagB', cspan: 1, width: 30 }
@@ -87,6 +91,7 @@
 		{ key: 'flagA', class: 'img', html: f('flagA', input_img()) },
                 { key: 'teamA', class: 'num', html: f('teamA') },
                 { key: 'Aposition', class: 'num', html: f('Aposition') },
+		{ key: 'blank', class: 'num', html: f('blank') },
                 { key: 'Bposition', class: 'num', html: ƒ('Bposition')},
                 { key: 'teamB', class: 'num', html: f('teamB') },
 		{ key: 'flagB', class: 'img', html: f('flagB', input_img()) },
