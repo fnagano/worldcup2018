@@ -22,10 +22,10 @@
 		td { border-bottom: 1px solid #ddd; height: 30px; }
         
         table th:nth-child(1){
-            width: 80px;
+            width: 30px;
         }
         table th:nth-child(2){
-           width: 30px;
+           width: 80px;
         }
         table th:nth-child(3){
         width: 40px;
@@ -37,15 +37,15 @@
             width: 40px;
         }
         table th:nth-child(6){
-            width: 30px;
-        }
-        table th:nth-child(7){
             width: 80px;
         }
-        table td:nth-child(1){
+        table th:nth-child(7){
+            width: 30px;
+        }
+        table td:nth-child(2){
             text-align: right;
         }
-        table td:nth-child(7){
+        table td:nth-child(6){
             text-align: left;
         }
         th.header { text-align: center; }    
@@ -75,22 +75,22 @@
             var f = d3.f; // Definindo funcao de simplificacao
             // column definitions OK!
             var headers = [
-                { titulo: '', class: 'header', id: 'teamA', cspan: 1, width: 40 },
-                { titulo: '', class: 'header', id: 'flagA', cspan: 0, width: 30 },
-                { titulo: 'V', class: 'header', id: 'Awins', cspan: 1, width: 30 },
-                { titulo: 'E', class: 'header', id: 'draw', cspan: 1, width: 30 },
-                { titulo: 'V', class: 'header', id: 'Bwins', cspan: 1, width: 30 },
-                { titulo: '', class: 'header', id: 'flagB', cspan: 1, width: 30 },
-                { titulo: '', class: 'header', id: 'teamB', cspan: 1, width: 40 }
+                { titulo: '', class: 'header', id: 'flagA', cspan: 1, width: 30 },
+                { titulo: 'Seleção', class: 'header', id: 'teamA', cspan: 1, width: 40 },
+                { titulo: 'Pos', class: 'header', id: 'Aposition', cspan: 1, width: 30 },
+                { titulo: '', class: 'header', id: 'blank', cspan: 1, width: 30 },
+                { titulo: 'Pos', class: 'header', id: 'Bposition', cspan: 1, width: 30 },
+                { titulo: 'Seleção', class: 'header', id: 'teamB', cspan: 1, width: 40 },
+                { titulo: '', class: 'header', id: 'flagB', cspan: 1, width: 30 }
             ];
             var data_keys = [
+		{ key: 'flagA', class: 'img', html: f('flagA', input_img()) },
                 { key: 'teamA', class: 'namer', html: f('teamA') },
-                { key: 'flagA', class: 'img', html: f('flagA', input_img()) },
-                { key: 'Awins', class: 'num', html: f('Awins', percent()) },
-                { key: 'draw', class: 'num', html: ƒ('draw', percent())},
-                { key: 'Bwins', class: 'num', html: ƒ('Bwins', percent())},
-                { key: 'flagB', class: 'img', html: f('flagB', input_img()) },
+                { key: 'Aposition', class: 'num', html: f('Awins', percent()) },
+                { key: 'blank', class: 'num', html: ƒ('draw') },
+                { key: 'Bposition', class: 'num', html: ƒ('Bwins', percent())},
                 { key: 'teamB', class: 'namel', html: f('teamB') },
+		{ key: 'flagB', class: 'img', html: f('flagB', input_img()) },
             ];
             // Criando tabela
             var table = d3.select('body')
