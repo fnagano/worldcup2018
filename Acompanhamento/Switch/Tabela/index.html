@@ -171,9 +171,15 @@
             .attr('class', ƒ('cl'));
             
         // Cover percentage
-        function percent() {
-            return function(f) { return 100*f>1? Math.round(100 * f) + '%' : '<1%'; };
-        };
+//        function percent() {
+//            return function(f) { return 100*f>1? Math.round(100 * f) + '%' : '<1%'; };
+//        };
+		function percent() { return function(f) { 
+                    var i = Math.round(100 * f);
+                    return i > 0? i + '%': f > 0? '<1%' : '--'; };
+        	};        
+        
+        
         // A partir do nome do pais, retorna a bandeira
         function input_img() {
           return function(country) { return "<img src='https://raw.githubusercontent.com/fnagano/worldcup2018/master/flags32/" + country +".png' width='24' height='24'>"; }
