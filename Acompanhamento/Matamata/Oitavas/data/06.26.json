@@ -1,0 +1,10 @@
+[
+{"flagA": "uruguay", "teamA": "Uruguai", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Portugal", "flagB": "portugal"},
+{"flagA": "france", "teamA": "França", "Aposition": "1C", "blank": "vs", "Bposition": "2D", "teamB": "Argentina", "flagB": "argentina"},
+{"flagA": "", "teamA": "", "Aposition": "1E", "blank": "vs", "Bposition": "2F", "teamB": "", "flagB": ""},
+{"flagA": "", "teamA": "", "Aposition": "1G", "blank": "vs", "Bposition": "2H", "teamB": "", "flagB": ""},
+{"flagA": "spain", "teamA": "Espanha", "Aposition": "1B", "blank": "vs", "Bposition": "2A", "teamB": "Rússia", "flagB": "russia"},
+{"flagA": "croatia", "teamA": "Croácia", "Aposition": "1D", "blank": "vs", "Bposition": "2C", "teamB": "Dinamarca", "flagB": "denmark"},
+{"flagA": "", "teamA": "", "Aposition": "1F", "blank": "vs", "Bposition": "2E", "teamB": "", "flagB": ""},
+{"flagA": "", "teamA": "", "Aposition": "1H", "blank": "vs", "Bposition": "2G", "teamB": "", "flagB": ""}
+]
