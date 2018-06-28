@@ -44,7 +44,7 @@ function groupStageSliders () {
 		oitavas[0].innerHTML = f;
 		
 		// Modificando tabela de oitavas2
-		var oitavas = document.getElementsByClassName("oitavas2");
+		var oitavas2 = document.getElementsByClassName("oitavas2");
 		var f = "<iframe width='400' height='300' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Oitavas2/?file_path=data/" + data + ".json' align='middle'></iframe>";
 		oitavas[0].innerHTML = f;
 		
@@ -70,7 +70,7 @@ function groupStageSliders () {
 	oitavas[0].innerHTML = f;
 	
 	// Modificando tabela de oitavas2
-	var oitavas = document.getElementsByClassName("oitavas2");
+	var oitavas2 = document.getElementsByClassName("oitavas2");
 	var f = "<iframe width='400' height='300' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Oitavas2/?file_path=data/" + data + ".json' align='middle'></iframe>";
 	oitavas[0].innerHTML = f;
 
