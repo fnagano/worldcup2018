@@ -43,6 +43,11 @@ function groupStageSliders () {
 		var f = "<iframe width='300' height='400' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Oitavas/?file_path=data/" + data + ".json' align='middle'></iframe>";
 		oitavas[0].innerHTML = f;
 		
+		// Modificando tabela de oitavas2
+		var oitavas = document.getElementsByClassName("oitavas2");
+		var f = "<iframe width='400' height='300' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Oitavas2/?file_path=data/" + data + ".json' align='middle'></iframe>";
+		oitavas[0].innerHTML = f;
+		
 		// Modificando tabela de grupos
 		var tables = document.getElementsByClassName("tables");
 		var i;
@@ -62,6 +67,11 @@ function groupStageSliders () {
 	// Modificando tabela de oitavas
 	var oitavas = document.getElementsByClassName("oitavas");
 	var f = "<iframe width='300' height='400' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Oitavas/?file_path=data/" + data + ".json' align='middle'></iframe>";
+	oitavas[0].innerHTML = f;
+	
+	// Modificando tabela de oitavas2
+	var oitavas = document.getElementsByClassName("oitavas2");
+	var f = "<iframe width='300' height='400' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Oitavas2/?file_path=data/" + data + ".json' align='middle'></iframe>";
 	oitavas[0].innerHTML = f;
 
 	// Modificando tabela de grupos
