@@ -1,0 +1,6 @@
+[
+{"abrevA": "URU", "flagA": "uruguay", "blank": "vs", "flagB": "portugal", "abrevB": "POR", "blank2": "", "abrevC": "ESP", "flagC": "spain", "blank": "vs", "flagD": "russia", "abrevD": "RUS"},
+{"abrevA": "FRA", "flagA": "france", "blank": "vs", "flagB": "argentina", "abrevB": "ARG", "blank2": "", "abrevC": "CRO", "flagC": "croatia", "blank": "vs", "flagD": "denmark", "abrevD": "DIN"},
+{"abrevA": "BRA", "flagA": "brazil", "blank": "vs", "flagB": "mexico", "abrevB": "MEX", "blank2": "", "abrevC": "SUE", "flagC": "sweden", "blank": "vs", "flagD": "switzerland", "abrevD": "SUI"},
+{"abrevA": "BEL", "flagA": "belgium", "blank": "vs", "flagB": "japan", "abrevB": "JAP", "blank2": "", "abrevC": "COL", "flagC": "colombia", "blank": "vs", "flagD": "england", "abrevD": "ING"}
+]
