@@ -1,11 +1,11 @@
 [
 {"flagA": "uruguay", "teamA": "Uruguai", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "Portugal", "flagB": "portugal"},
 {"flagA": "france", "teamA": "França", "Aposition": "1C", "blank": "vs", "Bposition": "2D", "teamB": "Argentina", "flagB": "argentina"},
-{"flagA": "blank", "teamA": "", "Aposition": "1E", "blank": "vs", "Bposition": "2F", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1G", "blank": "vs", "Bposition": "2H", "teamB": "", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1E", "Aposition": "1E", "blank": "vs", "Bposition": "2F", "teamB": "2F", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1G", "Aposition": "1G", "blank": "vs", "Bposition": "2H", "teamB": "2H", "flagB": "blank"},
 {"flagA": "spain", "teamA": "Espanha", "Aposition": "1B", "blank": "vs", "Bposition": "2A", "teamB": "Rússia", "flagB": "russia"},
 {"flagA": "croatia", "teamA": "Croácia", "Aposition": "1D", "blank": "vs", "Bposition": "2C", "teamB": "Dinamarca", "flagB": "denmark"},
-{"flagA": "blank", "teamA": "", "Aposition": "1F", "blank": "vs", "Bposition": "2E", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1H", "blank": "vs", "Bposition": "2G", "teamB": "", "flagB": "blank"}
+{"flagA": "blank", "teamA": "1F", "Aposition": "1F", "blank": "vs", "Bposition": "2E", "teamB": "2E", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1H", "Aposition": "1H", "blank": "vs", "Bposition": "2G", "teamB": "2G", "flagB": "blank"}
   ]
 
