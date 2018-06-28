@@ -1,10 +1,10 @@
 [
-{"flagA": "blank", "teamA": "", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1C", "blank": "vs", "Bposition": "2D", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1E", "blank": "vs", "Bposition": "2F", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1G", "blank": "vs", "Bposition": "2H", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1B", "blank": "vs", "Bposition": "2A", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1D", "blank": "vs", "Bposition": "2C", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1F", "blank": "vs", "Bposition": "2E", "teamB": "", "flagB": "blank"},
-{"flagA": "blank", "teamA": "", "Aposition": "1H", "blank": "vs", "Bposition": "2G", "teamB": "", "flagB": "blank"}
-]
+{"flagA": "blank", "teamA": "1A", "Aposition": "1A", "blank": "vs", "Bposition": "2B", "teamB": "2B", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1C", "Aposition": "1C", "blank": "vs", "Bposition": "2D", "teamB": "2D", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1E", "Aposition": "1E", "blank": "vs", "Bposition": "2F", "teamB": "2F", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1G", "Aposition": "1G", "blank": "vs", "Bposition": "2H", "teamB": "2H", "flagB": "blank"},
+{"flagA": "blnak", "teamA": "1B", "Aposition": "1B", "blank": "vs", "Bposition": "2A", "teamB": "2A", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1D", "Aposition": "1D", "blank": "vs", "Bposition": "2C", "teamB": "2C", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1F", "Aposition": "1F", "blank": "vs", "Bposition": "2E", "teamB": "2E", "flagB": "blank"},
+{"flagA": "blank", "teamA": "1H", "Aposition": "1H", "blank": "vs", "Bposition": "2G", "teamB": "2G", "flagB": "blank"}
+  ]
