@@ -40,7 +40,7 @@ function groupStageSliders () {
 
 		// Modificando tabela de quartas
 		var quartas = document.getElementsByClassName("quartas");
-		var f = "<iframe width='350' height='100' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Quartas/?file_path=data/" + data + ".json' align='middle'></iframe>";
+		var f = "<iframe width='450' height='100' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Quartas/?file_path=data/" + data + ".json' align='middle'></iframe>";
 		quartas[0].innerHTML = f;
 		
 		// Modificando tabela de oitavas
@@ -66,7 +66,7 @@ function groupStageSliders () {
 	
 	// Modificando tabela de quartas
 	var quartas = document.getElementsByClassName("quartas");
-	var f = "<iframe width='350' height='100' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Quartas/?file_path=data/" + data + ".json' align='middle'></iframe>";
+	var f = "<iframe width='450' height='100' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Quartas/?file_path=data/" + data + ".json' align='middle'></iframe>";
 	quartas[0].innerHTML = f;
 	
 	// Modificando tabela de oitavas
