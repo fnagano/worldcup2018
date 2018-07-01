@@ -37,6 +37,11 @@ function groupStageSliders () {
 		var next_matches = document.getElementsByClassName("next_matches");
 		var f = "<iframe width='350' height='350' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Next_matches/?file_path=data/" + data + ".json' align='middle'></iframe>";
 		next_matches[0].innerHTML = f;
+
+		// Modificando tabela de quartas
+		var quartas = document.getElementsByClassName("quartas");
+		var f = "<iframe width='350' height='100' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Quartas/?file_path=data/" + data + ".json' align='middle'></iframe>";
+		quartas[0].innerHTML = f;
 		
 		// Modificando tabela de oitavas
 		var oitavas = document.getElementsByClassName("oitavas");
@@ -58,6 +63,11 @@ function groupStageSliders () {
 	var next_matches = document.getElementsByClassName("next_matches");
 	var f = "<iframe width='350' height='350' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Next_matches/?file_path=data/" + data + ".json' align='middle'></iframe>";
 	next_matches[0].innerHTML = f;
+	
+	// Modificando tabela de quartas
+	var quartas = document.getElementsByClassName("quartas");
+	var f = "<iframe width='350' height='100' frameborder='0' scrolling='no' src='https://fnagano.github.io/worldcup2018/Acompanhamento/Matamata/Quartas/?file_path=data/" + data + ".json' align='middle'></iframe>";
+	quartas[0].innerHTML = f;
 	
 	// Modificando tabela de oitavas
 	var oitavas = document.getElementsByClassName("oitavas");
