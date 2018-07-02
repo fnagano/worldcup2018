@@ -32,25 +32,25 @@
         table td:nth-child(2){
            width: 20px;
         }
-/*        table td:nth-child(3){
+        table td:nth-child(3){
         width: 15px;
-        }*/
-	table td:nth-child(3){
+        }
+	table td:nth-child(4){
         width: 5px;
         }
-/*        table td:nth-child(5){
+        table td:nth-child(5){
             width: 15px;
-        }*/
-        table td:nth-child(4){
+        }
+        table td:nth-child(6){
             width: 20px;
         }
-        table td:nth-child(5){
+        table td:nth-child(7){
             width: 80px;
         }
         table td:nth-child(1){
             text-align: right;
         }
-        table td:nth-child(5){
+        table td:nth-child(7){
             text-align: left;
         }
         th.header { text-align: center; }    
@@ -82,9 +82,9 @@
             var headers = [
                 { titulo: '', class: 'header', id: 'teamA', cspan: 2, width: 80 },
 		//{ titulo: '', class: 'header', id: 'flagA', cspan: 2, width: 40 },
-                { titulo: '', class: 'header', id: 'Aposition', cspan: 1, width: 30 },
+                { titulo: '', class: 'header', id: 'Achances', cspan: 1, width: 30 },
 		{ titulo: '', class: 'header', id: 'blank', cspan: 1, width: 10 },
-                { titulo: '', class: 'header', id: 'Bposition', cspan: 1, width: 30 },
+                { titulo: '', class: 'header', id: 'Bchances', cspan: 1, width: 30 },
             //    { titulo: '', class: 'header', id: 'flagB', cspan: 1, width: 30 },
 		{ titulo: '', class: 'header', id: 'teamB', cspan: 2, width: 80 }
 
@@ -92,9 +92,9 @@
             var data_keys = [
                 { key: 'teamA', class: 'namer', html: f('teamA') },
 		{ key: 'flagA', class: 'img', html: f('flagA', input_img()) },
-		//{ key: 'Aposition', class: 'num', html: f('Aposition') },
+		{ key: 'Achances', class: 'num', html: f('Achances') },
 		{ key: 'blank', class: 'num', html: f('blank') },
-                //{ key: 'Bposition', class: 'num', html: ƒ('Bposition')},
+                { key: 'Bchances', class: 'num', html: ƒ('Bchances')},
 		{ key: 'flagB', class: 'img', html: f('flagB', input_img()) },
                 { key: 'teamB', class: 'namel', html: f('teamB') }
 
