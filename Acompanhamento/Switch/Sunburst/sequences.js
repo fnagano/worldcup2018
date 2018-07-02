@@ -64,10 +64,10 @@ d3.text(file_path, function(text) {
     "Japão": "#BC002D",
     "Polônia": "#DC143C",
     "Senegal": "#00853F",
-    "Oitavas": "#1a84b8",
-    "Quartas": "#1a8cb8",
-    "Semi": "#1a94b8",
-    "Final": "#1a9cb8",
+    "Oitavas": "#253494",
+    "Quartas": "#2c7fb8",
+    "Semi": "#41b6c4",
+    "Final": "#7fcdbb",
     "Campeão": "#FFD700",
     "Eliminado": "#bbb0ac"
   };
