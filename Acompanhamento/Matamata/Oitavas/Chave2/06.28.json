@@ -1,0 +1,6 @@
+[
+{"flagA": "spain", "teamA": "Espanha", "Achances": 0.8777, "blank": "vs", "Bchances": 0.1223, "teamB": "Rússia", "flagB": "russia"},
+{"flagA": "croatia", "teamA": "Croácia", "Achances": 0.6484, "blank": "vs", "Bchances": 0.3516, "teamB": "Dinamarca", "flagB": "denmark"},
+{"flagA": "sweden", "teamA": "Suécia", "Achances": 0.4635, "blank": "vs", "Bchances": 0.5365, "teamB": "Suíça", "flagB": "switzerland"},
+{"flagA": "colombia", "teamA": "Colômbia", "Achances": 0.5924, "blank": "vs", "Bchances": 0.4076, "teamB": "Inglaterra", "flagB": "england"}
+]
