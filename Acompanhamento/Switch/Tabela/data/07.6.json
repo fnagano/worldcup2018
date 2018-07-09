@@ -1,12 +1,12 @@
 [
-{"flag": "brazil", "team": "Brasil", "group": "E", "eight": 1, "quarter": 1, "semi": 0.7861, "final": 0.590833333333333, "winner": 0.501933333333333},
-{"flag": "france", "team": "França", "group": "C", "eight": 1, "quarter": 1, "semi": 0.624366666666667, "final": 0.212333333333333, "winner": 0.153733333333333},
-{"flag": "croatia", "team": "Croácia", "group": "D", "eight": 1, "quarter": 1, "semi": 0.798333333333333, "final": 0.400166666666667, "winner": 0.1002},
-{"flag": "belgium", "team": "Bélgica", "group": "G", "eight": 1, "quarter": 1, "semi": 0.2139, "final": 0.1008, "winner": 0.0652},
-{"flag": "sweden", "team": "Suécia", "group": "F", "eight": 1, "quarter": 1, "semi": 0.554933333333333, "final": 0.312766666666667, "winner": 0.0629},
-{"flag": "uruguay", "team": "Uruguai", "group": "A", "eight": 1, "quarter": 1, "semi": 0.375633333333333, "final": 0.0960333333333333, "winner": 0.0573666666666667},
-{"flag": "england", "team": "Inglaterra", "group": "G", "eight": 1, "quarter": 1, "semi": 0.445066666666667, "final": 0.241066666666667, "winner": 0.0538333333333333},
-{"flag": "russia", "team": "Rússia", "group": "A", "eight": 1, "quarter": 1, "semi": 0.201666666666667, "final": 0.046, "winner": 0.00483333333333333},
+{"flag": "france", "team": "França", "group": "C", "eight": 1, "quarter": 1, "semi": 1, "final": 0.5771, "winner": 0.455333333333333},
+{"flag": "belgium", "team": "Bélgica", "group": "G", "eight": 1, "quarter": 1, "semi": 1, "final": 0.4229, "winner": 0.309466666666667},
+{"flag": "croatia", "team": "Croácia", "group": "D", "eight": 1, "quarter": 1, "semi": 0.7983, "final": 0.4055, "winner": 0.111366666666667},
+{"flag": "sweden", "team": "Suécia", "group": "F", "eight": 1, "quarter": 1, "semi": 0.5567, "final": 0.3082, "winner": 0.0586666666666667},
+{"flag": "england", "team": "Inglaterra", "group": "G", "eight": 1, "quarter": 1, "semi": 0.4433, "final": 0.237533333333333, "winner": 0.0584},
+{"flag": "russia", "team": "Rússia", "group": "A", "eight": 1, "quarter": 1, "semi": 0.2017, "final": 0.0487666666666667, "winner": 0.00676666666666667},
+{"flag": "brazil", "team": "Brasil", "group": "E", "eight": 1, "quarter": 1, "semi": 0, "final": 0, "winner": 0},
+{"flag": "uruguay", "team": "Uruguai", "group": "A", "eight": 1, "quarter": 1, "semi": 0, "final": 0, "winner": 0},
 {"flag": "colombia", "team": "Colômbia", "group": "H", "eight": 1, "quarter": 0, "semi": 0, "final": 0, "winner": 0},
 {"flag": "switzerland", "team": "Suíça", "group": "E", "eight": 1, "quarter": 0, "semi": 0, "final": 0, "winner": 0},
 {"flag": "mexico", "team": "México", "group": "F", "eight": 1, "quarter": 0, "semi": 0, "final": 0, "winner": 0},
@@ -31,4 +31,4 @@
 {"flag": "saudi-arabia", "team": "Arábia Saudita", "group": "A", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0},
 {"flag": "morocco", "team": "Marrocos", "group": "B", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0},
 {"flag": "egypt", "team": "Egito", "group": "A", "eight": 0, "quarter": 0, "semi": 0, "final": 0, "winner": 0}
-]
+  ]
