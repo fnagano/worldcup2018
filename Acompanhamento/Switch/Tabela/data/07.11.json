@@ -1,7 +1,7 @@
 [
-{"flag": "france", "team": "França", "group": "C", "eight": 1, "quarter": 1, "semi": 1, "final": 1, "winner": 0.8153},
-{"flag": "croatia", "team": "Croácia", "group": "D", "eight": 1, "quarter": 1, "semi": 1, "final": 0.527533333333333, "winner": 0.0999},
-{"flag": "england", "team": "Inglaterra", "group": "G", "eight": 1, "quarter": 1, "semi": 1, "final": 0.472466666666667, "winner": 0.0848},
+{"flag": "france", "team": "França", "group": "C", "eight": 1, "quarter": 1, "semi": 1, "final": 1, "winner": 0.7653},
+{"flag": "croatia", "team": "Croácia", "group": "D", "eight": 1, "quarter": 1, "semi": 1, "final": 1, "winner": 0.2347},
+{"flag": "england", "team": "Inglaterra", "group": "G", "eight": 1, "quarter": 1, "semi": 1, "final": 0, "winner": 0},
 {"flag": "belgium", "team": "Bélgica", "group": "G", "eight": 1, "quarter": 1, "semi": 1, "final": 0, "winner": 0},
 {"flag": "russia", "team": "Rússia", "group": "A", "eight": 1, "quarter": 1, "semi": 0, "final": 0, "winner": 0},
 {"flag": "sweden", "team": "Suécia", "group": "F", "eight": 1, "quarter": 1, "semi": 0, "final": 0, "winner": 0},
